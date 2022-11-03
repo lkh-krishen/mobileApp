@@ -1,0 +1,7 @@
+  {
+    name: '{{firstName()}} {{surname()}}',
+    contact: '{{phone()}}',
+    email: '{{email()}}',
+    address: '{{integer(100, 999)}} {{street()}}, {{city()}}, {{state()}}, {{integer(100, 10000)}}',
+    password:'123'
+  }
